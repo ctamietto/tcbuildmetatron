@@ -1,0 +1,6 @@
+the istruction for access oracle maven repository does not work for me , so i've downloaded and installed the artifacts manually
+/root/m.2/repository/com/oracle/jdbc/ucp/18.3.0.0/ucp-18.3.0.0.pom
+/root/m.2/repository/com/oracle/jdbc/ucp/18.3.0.0/ucp-18.3.0.0.jar
+/root/m.2/repository/com/oracle/jdbc/ucp/18.3.0.0/ojdbc8-18.3.0.0
+
+
